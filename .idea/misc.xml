@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.2651975683890577" />
+        <entry key="app/src/main/res/drawable/clock_bg.xml" value="0.28" />
+        <entry key="app/src/main/res/layout/activity_baterry.xml" value="0.2911458333333333" />
+        <entry key="app/src/main/res/layout/activity_event_bus_subscribe.xml" value="0.30052083333333335" />
+        <entry key="app/src/main/res/layout/activity_event_bus_test.xml" value="0.30052083333333335" />
+        <entry key="app/src/main/res/layout/activity_gpslocation.xml" value="0.35208333333333336" />
+        <entry key="app/src/main/res/layout/activity_hidden.xml" value="0.23125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.36428571428571427" />
+        <entry key="app/src/main/res/layout/activity_setting.xml" value="0.5192708333333333" />
+        <entry key="app/src/main/res/layout/activity_test_control.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_thread_test.xml" value="0.37447916666666664" />
+        <entry key="app/src/main/res/layout/activity_wallpaper.xml" value="0.3458333333333333" />
+        <entry key="app/src/main/res/layout/view_item.xml" value="0.4154786150712831" />
+        <entry key="app/src/main/res/xml/wallpaper_video.xml" value="0.346875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
