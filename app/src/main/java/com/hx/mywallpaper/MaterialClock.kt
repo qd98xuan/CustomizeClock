@@ -10,6 +10,12 @@ import android.view.View
 import androidx.annotation.RequiresApi
 import java.util.*
 
+/**
+* @author huangxuan
+* @since 2022/10/11 14:10
+* QQ: 1360643904
+* 模拟时钟控件
+*/
 class MaterialClock : View {
     constructor(context: Context?) : super(context)
     constructor(context: Context, attrs: AttributeSet?) : super(context, attrs)
