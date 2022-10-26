@@ -6,6 +6,7 @@
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
     <application
         android:allowBackup="true"
@@ -18,7 +19,7 @@
         android:theme="@style/Theme.MyWallpaper"
         tools:targetApi="31">
         <activity
-            android:name=".TestControlActivity"
+            android:name=".TestRockerViewActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,11 +28,17 @@
             </intent-filter>
         </activity>
         <activity
+            android:name=".SinWaveActivity"
+            android:exported="true"></activity>
+        <activity
+            android:name=".TestControlActivity"
+            android:exported="true"></activity>
+        <activity
             android:name=".ThreadTestActivity"
             android:exported="false" />
         <activity
             android:name=".GPSLocationActivity"
-            android:exported="true"></activity>
+            android:exported="true" />
         <activity
             android:name=".HiddenActivity"
             android:exported="false" />
